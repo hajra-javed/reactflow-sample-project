@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactflow-sample-project/static/css/main.d2623120.css",
+    "main.js": "/reactflow-sample-project/static/js/main.50a1c0e7.js",
+    "index.html": "/reactflow-sample-project/index.html",
+    "main.d2623120.css.map": "/reactflow-sample-project/static/css/main.d2623120.css.map",
+    "main.50a1c0e7.js.map": "/reactflow-sample-project/static/js/main.50a1c0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2623120.css",
+    "static/js/main.50a1c0e7.js"
+  ]
+}
